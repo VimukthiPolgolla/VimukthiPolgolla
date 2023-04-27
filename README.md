@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Vimukthi Polgolla</h1>
-<h3 align="center">I'm a driven undergrad working on a data science degree. I have a solid background in computer languages and data analysis thanks to my education. I am a motivated, quick learner, and a challenge-loving person who is constantly keen to learn new technologies. I have a knack for multitasking, which allows me to successfully balance several projects and prioritize duties. My long-term objective is to work in the field of data science, where I can use my expertise to spur innovation and improve people's lives through technology. I would love to meet and discuss prospective prospects if you're seeking a committed, diligent team player who is constantly willing to learn and progress.</h3>
 
 - 🌱 I’m currently learning **Deep Learning and Tensorflow**
 
